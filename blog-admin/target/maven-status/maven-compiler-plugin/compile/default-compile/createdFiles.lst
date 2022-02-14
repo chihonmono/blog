@@ -1,0 +1,15 @@
+games\seac\blog\admin\pojo\Permission.class
+games\seac\blog\admin\pojo\Admin.class
+games\seac\blog\admin\service\PermissionService.class
+games\seac\blog\admin\service\AdminService.class
+games\seac\blog\admin\vo\Result.class
+games\seac\blog\admin\model\params\PageParam.class
+games\seac\blog\admin\service\SecurityUserService.class
+games\seac\blog\admin\controller\AdminController.class
+games\seac\blog\admin\mapper\AdminMapper.class
+games\seac\blog\admin\service\AuthService.class
+games\seac\blog\admin\config\SecurityConfig.class
+games\seac\blog\admin\AdminApp.class
+games\seac\blog\admin\mapper\PermissionMapper.class
+games\seac\blog\admin\vo\PageResult.class
+games\seac\blog\admin\config\MybatisPlusConfig.class

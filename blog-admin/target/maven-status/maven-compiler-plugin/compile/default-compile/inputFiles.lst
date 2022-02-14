@@ -1,0 +1,15 @@
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\service\AuthService.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\service\PermissionService.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\service\SecurityUserService.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\vo\PageResult.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\service\AdminService.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\AdminApp.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\model\params\PageParam.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\pojo\Admin.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\vo\Result.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\config\MybatisPlusConfig.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\config\SecurityConfig.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\pojo\Permission.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\mapper\AdminMapper.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\mapper\PermissionMapper.java
+G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\java\games\seac\blog\admin\controller\AdminController.java

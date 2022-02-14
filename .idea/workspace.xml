@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75865207-c049-4d80-812b-3eb4cd8d076b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.8.3" />
+        <option name="outputLevel" value="DEBUG" />
+        <option name="userSettingsFile" value="G:\ProgramFiles\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="24lfqhGC9TDkKX6T3Mavj8jsYXo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="games.seac.blog.admin.service" />
+      <recent name="games.seac.blog.vo.params" />
+      <recent name="games.seac.blog.vo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\ProgramFiles\idea\workspace\blog-parent\blog-admin\src\main\resources\static" />
+      <recent name="G:\ProgramFiles\idea\workspace\blog-parent\blog-api\src\main\resources\games\seac\blog\dao\mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\ProgramFiles\idea\workspace\blog-parent" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="games.seac.blog.vo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="games.seac.blog.admin.vo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.blog-api [ -U clean package ]">
+    <configuration name="JWTUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="games.seac.blog.utils.JWTUtils" />
+      <module name="blog-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="games.seac.blog.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blog-api [ -U clean package ]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-U" />
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="prod" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/blog-api" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="AdminApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="games.seac.blog.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="games.seac.blog.admin.AdminApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="games.seac.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="games.seac.blog.BlogApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JWTUtils" />
+      <item itemvalue="Maven.blog-api [ -U clean package ]" />
+      <item itemvalue="Spring Boot.AdminApp" />
+      <item itemvalue="Spring Boot.BlogApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BlogApp" />
+        <item itemvalue="Spring Boot.AdminApp" />
+        <item itemvalue="Application.JWTUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75865207-c049-4d80-812b-3eb4cd8d076b" name="Changes" comment="" />
+      <created>1644210288553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644210288553</updated>
+      <workItem from="1644210289926" duration="13917000" />
+      <workItem from="1644293785032" duration="5734000" />
+      <workItem from="1644304992318" duration="4248000" />
+      <workItem from="1644378564755" duration="14490000" />
+      <workItem from="1644482998255" duration="5429000" />
+      <workItem from="1644501250498" duration="25000" />
+      <workItem from="1644551220423" duration="17378000" />
+      <workItem from="1644633613678" duration="29327000" />
+      <workItem from="1644728808646" duration="11353000" />
+      <workItem from="1644816215724" duration="1489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/blog-api/src/main/java/games/seac/blog/controller/CommentController.java</url>
+          <line>25</line>
+          <properties class="games.seac.blog.controller.CommentController" method="comment">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
